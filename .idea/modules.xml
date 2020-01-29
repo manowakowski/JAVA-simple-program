@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Anagram.iml" filepath="$PROJECT_DIR$/Anagram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Anagramm.iml" filepath="$PROJECT_DIR$/Anagramm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstCat.iml" filepath="$PROJECT_DIR$/FirstCat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA.iml" filepath="$PROJECT_DIR$/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dasasdasd.iml" filepath="$PROJECT_DIR$/dasasdasd.iml" />
+    </modules>
+  </component>
+</project>
