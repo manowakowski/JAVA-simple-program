@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17271030-5a71-4e57-8908-798c54d540e9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X1fkfnrjTYCQPvHC1YPrzE092e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="nowOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowOne" />
+      <module name="Program to add two given Matrices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.nowOne" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17271030-5a71-4e57-8908-798c54d540e9" name="Default Changelist" comment="" />
+      <created>1580218665144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580218665144</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="611" y="205" width="424" height="513" key="FileChooserDialogImpl" timestamp="1580219233865">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="611" y="205" width="424" height="513" key="FileChooserDialogImpl/67.27.1533.873@67.27.1533.873" timestamp="1580219233865" />
+    <state width="1487" height="219" key="GridCell.Tab.0.bottom" timestamp="1580218793475">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="219" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1580218793475" />
+    <state width="1487" height="219" key="GridCell.Tab.0.center" timestamp="1580218793473">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="219" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1580218793473" />
+    <state width="1487" height="219" key="GridCell.Tab.0.left" timestamp="1580218793473">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="219" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1580218793473" />
+    <state width="1487" height="219" key="GridCell.Tab.0.right" timestamp="1580218793473">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1487" height="219" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1580218793473" />
+    <state x="142" y="64" width="1372" height="796" key="new project wizard" timestamp="1580219243042">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="142" y="64" width="1372" height="796" key="new project wizard/67.27.1533.873@67.27.1533.873" timestamp="1580219243042" />
+  </component>
+</project>
