@@ -31,6 +31,7 @@ public class PascalTriangle {
                 System.out.print(" "+ncr(i, j));
             }
             System.out.println();
+            System.out.println();
         }
     }
 }

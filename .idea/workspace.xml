@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="277a8c55-ee90-4bf6-935e-13c6edb694f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Binary search/src/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Binary search/src/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Complex Numbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Complex Numbers/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Pascal Triangle" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -110,6 +107,10 @@
       <screen x="67" y="27" width="1533" height="873" />
     </state>
     <state x="294" y="180" width="1171" height="620" key="DiffContextDialog/67.27.1533.873@67.27.1533.873" timestamp="1579193205216" />
+    <state x="616" y="221" width="424" height="484" key="FileChooserDialogImpl" timestamp="1580317231337">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="616" y="221" width="424" height="484" key="FileChooserDialogImpl/67.27.1533.873@67.27.1533.873" timestamp="1580317231337" />
     <state width="1354" height="205" key="GridCell.Tab.0.bottom" timestamp="1578954576524">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
@@ -130,9 +131,9 @@
       <screen x="67" y="27" width="1533" height="873" />
     </state>
     <state x="489" y="291" key="com.intellij.ide.util.TipDialog/67.27.1533.873@67.27.1533.873" timestamp="1579695702559" />
-    <state x="142" y="63" width="1372" height="798" key="new project wizard" timestamp="1579695830621">
+    <state x="142" y="63" width="1372" height="798" key="new project wizard" timestamp="1580317221841">
       <screen x="67" y="27" width="1533" height="873" />
     </state>
-    <state x="142" y="63" width="1372" height="798" key="new project wizard/67.27.1533.873@67.27.1533.873" timestamp="1579695830621" />
+    <state x="142" y="63" width="1372" height="798" key="new project wizard/67.27.1533.873@67.27.1533.873" timestamp="1580317221841" />
   </component>
 </project>
